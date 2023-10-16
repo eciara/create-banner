@@ -1,6 +1,6 @@
 # Przykład z kursu Angulara 
-Wpisz treść, zmień rozmiar fontu, zmień koloru i pobierz jako obrazek
-
+Tworzenie i generowanie baneru - customowa treść, rozmiar fontu, kolory tła
+ 
 ## Wymagania projektu
 - Angular CLI & Angular > 9.0.0
 - Node: 12.13.1 lub inna wersja LTS
